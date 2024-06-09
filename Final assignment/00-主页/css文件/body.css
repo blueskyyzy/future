@@ -5,3 +5,8 @@ body {
     width: 100%;
     height: 100%;
 } */
+.bq{
+    position: absolute;
+    bottom: 10px;
+    left: 500px;
+ }
